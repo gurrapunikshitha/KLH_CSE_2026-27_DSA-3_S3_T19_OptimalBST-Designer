@@ -1,0 +1,12 @@
+# Backend build output
+target/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Editor / OS
+.idea/
+*.iml
+.DS_Store
+~$*
